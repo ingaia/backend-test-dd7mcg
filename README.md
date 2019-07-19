@@ -23,8 +23,9 @@ Suba seu código em um repositório do GitHub e, ao final, certifique-se de comp
 
 ## Dicas importantes:
 
-- A temperatura da cidade deve ser, de fato, a temperatura real naquele momento. Para ter acesso a este dado, você pode utilizar qualquer API aberta de serviços meteorológicos que preferir. Nossa sugestão é a do [API do OpenWeatherMaps](https://openweathermap.org/api).
+- Por uma questão de aderência a esta posição específica, a utilização de [Node.js](https://nodejs.org) como linguagem principal será um diferencial.
 
+- A temperatura da cidade deve ser, de fato, a temperatura real naquele momento. Para ter acesso a este dado, você pode utilizar qualquer API aberta de serviços meteorológicos que preferir. Nossa sugestão é a do [API do OpenWeatherMaps](https://openweathermap.org/api).
 
 - Você também pode, a seu critério, utilizar um serviço terceiro para gerar as sugestões de músicas para as playlists que você irá retornar. Uma boa dica nesse caso é a [API do Spotify](https://developer.spotify.com/documentation/web-api/). O Spotify tem inclusive  uma lista de bibliotecas, em diversas linguagens, para acesso à API.
 
