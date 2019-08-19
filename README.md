@@ -19,7 +19,13 @@ Você pode utilizar qualquer linguagem, ferramenta, framework ou biblioteca com 
 
 Caso tenha quaisquer dúvidas sobre este teste, a qualquer momento, sinta-se à vontade para entrar em contato através do e-mail engineering-tests@ingaia.com.br
 
-Suba seu código em um repositório do GitHub e, ao final, certifique-se de compartilhá-lo conosco. Além disso, indique como rodar o seu serviço localmente ou disponibilize uma versão online dele.
+Suba seu código em um repositório **privado** do GitHub e, ao final, certifique-se de compartilhá-lo com os seguintes usuários:
+
+- stefanobaldo
+- tcarmona
+- jesse1983
+
+Além disso, indique como rodar o seu serviço localmente ou disponibilize uma versão online dele.
 
 ## Dicas importantes:
 
