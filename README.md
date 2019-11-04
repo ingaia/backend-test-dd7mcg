@@ -22,7 +22,7 @@ Caso tenha quaisquer dúvidas sobre este teste, a qualquer momento, sinta-se à 
 Suba seu código em um repositório **privado** do GitHub e, ao final, certifique-se de compartilhá-lo com os seguintes usuários:
 
 - stefanobaldo
-- tcarmona
+- batosti
 - jesse1983
 
 Além disso, indique como rodar o seu serviço localmente ou disponibilize uma versão online dele.
