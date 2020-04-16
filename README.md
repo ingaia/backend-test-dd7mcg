@@ -5,31 +5,48 @@ Um estudo organizado por um grupo de pesquisadores desocupados demonstrou que as
 ## Requisitos Funcionais
 
 - Seu serviço deve ser acessível através de uma API REST
+
 - Seu serviço deve aceitar o nome de uma cidade como parâmetro, e a partir disso retornar uma playlist (somente o nome das músicas já é o suficiente) de acordo com a temperatura atual na cidade fornecida
+
 - Se a temperatura:
     - for maior que 25°C, o serviço deve sugerir músicas pop
     - estiver entre 10°C e 25°C, o serviço deve sugerir músicas de rock
     - estiver abaixo de 10°C, o serviço deve sugerir músicas clássicas
 
+- Seu serviço deve possuir um endpoint que indique as estatísticas de cidades consultadas desde a criação do serviço.
+
+## Requisitos não funcionais
+- Seu serviço deve executar em um container **Docker**.
+
+- Seu serviço deve ser construído com atenção aos seguintes aspectos:
+    - Latência
+    - Resiliência
+    - Tolerância à falhas
+    - Segurança
+    - Escalabilidade
+
+- Seu serviço deverá ser stateless, porém poderá fazer uso de ferramentas de **cache** para garantir a performance nas respostas.
+
+- Você deve apresentar uma **documentação** que represente a arquitetura de seu serviço e, se necessário, uma explicação para suas decisões de arquitetura.
+
+
 ## Detalhes
 
-Uma vez que este serviço será utilizado por milhares de pessoas, estratégias para torná-lo escalável e resiliente são muito bem-vindas.
-
-Você pode utilizar qualquer linguagem, ferramenta, framework ou biblioteca com as quais se sentir confortável ou julgar necessário, apenas certifique-se de descrever brevemente sua solução, explicando suas decisões de arquitetura.
+Você pode utilizar qualquer linguagem, ferramenta, framework ou biblioteca com as quais se sentir confortável ou julgar necessário.
 
 Caso tenha quaisquer dúvidas sobre este teste, a qualquer momento, sinta-se à vontade para entrar em contato através do e-mail engineering-tests@ingaia.com.br
 
-Suba seu código em um repositório **privado** do GitHub e, ao final, certifique-se de compartilhá-lo com os seguintes usuários:
+Suba seu código em um repositório do GitHub e, ao final, certifique-se de torna-lo público ou compartilhá-lo com os seguintes usuários:
 
 - stefanobaldo
 - batosti
 - jesse1983
 
-Além disso, indique como rodar o seu serviço localmente ou disponibilize uma versão online dele.
+Além disso disponibilize uma versão online dele.
 
 ## Dicas importantes:
 
-- Por uma questão de aderência a esta posição específica, a utilização de [Node.js](https://nodejs.org) como linguagem principal será um diferencial.
+- Por uma questão de aderência a posição, a utilização da linguagem para qual está descrita esta vaga será um diferencial.
 
 - A temperatura da cidade deve ser, de fato, a temperatura real naquele momento. Para ter acesso a este dado, você pode utilizar qualquer API aberta de serviços meteorológicos que preferir. Nossa sugestão é a do [API do OpenWeatherMaps](https://openweathermap.org/api).
 
