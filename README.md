@@ -42,7 +42,7 @@ Suba seu código em um repositório do GitHub e, ao final, certifique-se de torn
 - batosti
 - jesse1983
 
-Além disso disponibilize uma versão online dele.
+Além disso disponibilize uma **versão online** dele.
 
 ## Dicas importantes:
 
@@ -52,4 +52,7 @@ Além disso disponibilize uma versão online dele.
 
 - Você também pode, a seu critério, utilizar um serviço terceiro para gerar as sugestões de músicas para as playlists que você irá retornar. Uma boa dica nesse caso é a [API do Spotify](https://developer.spotify.com/documentation/web-api/). O Spotify tem inclusive  uma lista de bibliotecas, em diversas linguagens, para acesso à API.
 
-- Caso queira deixar seu serviço disponível online, uma boa dica é o [Heroku](https://www.heroku.com/). Ele permite que você publique algumas aplicações gratuitamente.
+- Para deixar seu serviço disponível online, uma boa dica é o [Heroku](https://www.heroku.com/). Ele permite que você publique algumas aplicações gratuitamente.
+
+- Não se esqueça de disponibilizar o link do repositório e o link da API online.
+
