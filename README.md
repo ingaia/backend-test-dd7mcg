@@ -42,7 +42,7 @@ Suba seu código em um repositório do GitHub e, ao final, certifique-se de torn
 - batosti
 - jesse1983
 
-Além disso disponibilize uma **versão onlinei** dele.
+Além disso disponibilize uma **versão online** dele.
 
 ## Dicas importantes:
 
